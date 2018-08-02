@@ -17,14 +17,13 @@
 	</ul>
 </div>
 
-<br><br>
+<br/><br/>
 
 <div>
 	<h3>Clase FileSystem</h3>
 	<p>
 		Implementación de operaciones sobre archivos en el File System de la PC.
 	</p>
-	
 	<table>
 		<thead>
 			<tr>
@@ -132,7 +131,7 @@
 	</table>
 </div>
 
-<br><br>
+<br/><br/>
 
 <div>
 	<h3>Clase FileSFTP</h3>
