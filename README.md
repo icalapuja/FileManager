@@ -24,7 +24,16 @@
 	<p>
 		Implementación de operaciones sobre archivos en el File System de la PC.
 	</p>
-
+	<table>
+		<thead>
+			<tr>
+				<th>Método</th>
+				<th>Descripción</th>
+				<th>Parámetros</th>
+				<th>Retorno</th>
+			</tr>
+		</thead>
+	</table>
 </div>
 
 <br/><br/>
