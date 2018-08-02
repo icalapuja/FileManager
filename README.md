@@ -33,6 +33,34 @@
 				<th>Retorno</th>
 			</tr>
 		</thead>
+		<tbody>
+			<tr>
+				<td>cp</td>
+				<td>
+					Metodo para copiar un archivo.
+				</td>
+				<td>
+					<div>
+						<strong>String pathNameSource</strong>
+						<p>
+							Ruta y nombre de archivo que se desea copiar.
+						</p>
+					</div>
+					<div>
+						<strong>String pathNameDest</strong>
+						<p>
+							Ruta y nombre del archivo donde será copiado.
+						</p>
+					</div>
+				</td>
+				<td>
+					<strong>boolean</strong>
+					<p>
+						Identifica si el archivo fue copiado.
+					</p>
+				</td>
+			</tr>
+		</tbody>
 	</table>
 </div>
 
